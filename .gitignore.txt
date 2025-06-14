@@ -1,1 +1,4 @@
 out/
+*.class
+.DS_Store
+*.log
